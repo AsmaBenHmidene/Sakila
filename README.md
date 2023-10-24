@@ -1,2 +1,3 @@
-# Queries_Sakila 
+# Sakila 
+### SQL Project
  
